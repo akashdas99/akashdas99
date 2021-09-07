@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Akash Das
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning GCP
 - 📫 How to reach me 
 -- email - akashdas0599@gmail.com
 
