@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Das
-- 🌱 I’m currently learning GCP
+- 🌱 Actively looking for oppurtunity as MERN/Frontend/Backend Developer
 - 📫 How to reach me 
 -- email - akashdas0599@gmail.com
 
