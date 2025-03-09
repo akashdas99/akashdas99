@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Das
-- 🌱 Actively looking for oppurtunity as MERN/Frontend/Backend Developer
+- 🌱 Actively looking for oppurtunity as Frontend/Full Stack Developer
 - 📫 How to reach me 
 -- email - akashdas0599@gmail.com
 
