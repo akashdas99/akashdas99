@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Your Name — Software Engineer (Frontend/Mobile/Full-Stack)
+# 🌟 Hi, I'm Akash Das — Software Developer (Frontend/Mobile/Full-Stack)
 
 I craft **high-quality, scalable, and performant web & mobile applications** with a strong focus on user experience, modern frontend architecture, and clean engineering practices.
 
