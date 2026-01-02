@@ -67,14 +67,5 @@ I’ve delivered **7+ production-grade applications** across social media, gamin
   </a>
   
  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=akash_das)
-    
----
-
-## 📬 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/akashdas5"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:akash.das.codes@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" /></a>
-</p>
 
 ---
